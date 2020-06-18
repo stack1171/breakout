@@ -1,5 +1,5 @@
 # breakout
 old skool breakout. 
-I will add the details as they become available.
+Thats not the final look.
 
 ![image](breakout.jpg)
